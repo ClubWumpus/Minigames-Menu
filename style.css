@@ -137,10 +137,6 @@ header .header__inner {
 	cursor: pointer;
 }
 
-.card.top.middle {
-	cursor: not-allowed;
-}
-
 .card .card__content {
 	height: calc(100% - 50px);
 	background-size: cover !important;
@@ -151,7 +147,7 @@ header .header__inner {
 }
 
 .card.top.middle .card__content {
-	background: url(media/angrywumpus.png) center center;
+	background: url(media/wumpusclicker.png) center center;
 }
 
 .card .card__title {
