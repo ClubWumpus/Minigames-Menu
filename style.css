@@ -137,10 +137,6 @@ header .header__inner {
 	cursor: pointer;
 }
 
-.card.top.middle {
-	cursor: not-allowed;
-}
-
 .card .card__content {
 	height: calc(100% - 50px);
 	background-size: cover !important;
